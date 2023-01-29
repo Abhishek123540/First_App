@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ramayana",
+      "desc": "Tales of Lord Rama",
+      "price": 990,
+      "image": "https://m.media-amazon.com/images/I/91odtfOhJ-L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "GooseBumps",
+      "desc": "GooseBumps by R.L. Stine",
+      "price": 890,
+      "image": "https://m.media-amazon.com/images/I/71z7wl7LKnL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Stranger Things",
+      "desc": "The Bully",
+      "price": 399,
+      "image": "https://kbimages1-a.akamaihd.net/ae21e88d-ed7a-4718-993b-47b730a94e26/353/569/90/False/stranger-things-the-bully-graphic-novel.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ironman Comics",
+      "desc": "Marvel Ironman",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/91jVH8ivUQS.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mahabharata",
+      "desc": "by Maharishi Vasa",
+      "price": 1099,
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566051944l/52039774._SX0_SY0_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bhagavad Gita",
+      "desc": "by Lord Krishna",
+      "price": 1059,
+      "image": "https://cdn.harekrishnabooks.com/2019/05/Bhagvat-Gita-English.jpg"
+    }
+  ]
+}
